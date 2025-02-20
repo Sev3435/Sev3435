@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Sev3435
+- 👀 I’m interested in Motorcycles, Crypto, Photography, Traveling and learning languages (including programming languages)
+- 🌱 I’m currently learning C# again, want to expand into python for AI. Also some C++ to make my life miserable.
